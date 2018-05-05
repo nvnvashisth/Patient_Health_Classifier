@@ -4,6 +4,6 @@
 
 2. Make sure you have all dependencies resolved in python for below libraries
 
-oandas, numpy, sklearn, matplotlib.pyplot, statsmodels.api, seaborn, scipy
+  pandas, numpy, sklearn, matplotlib.pyplot, statsmodels.api, seaborn, scipy
 
 3. Then open Patient.ipynb file which is self explanatory.
